@@ -1,1 +1,12 @@
-# Day3_102
+<img width="1470" alt="435591971-c4695c6e-dbfc-458a-8eb9-61e3f1234e17" src="https://github.com/user-attachments/assets/615c2a0a-939d-46b7-956d-3339efce67b9" />
+<img width="1470" alt="435592011-2f798267-eefd-4d31-a9cb-bf7f91804570" src="https://github.com/user-attachments/assets/926b9820-87ef-42eb-bdd6-ff0049c55bd7" />
+<img width="1470" alt="435591983-b769f965-419b-498f-831a-f7ccd01b7f76" src="https://github.com/user-attachments/assets/43a3e3f6-5023-4e9a-92e9-45bb9af8334b" />
+<img width="1470" alt="435591961-b825090c-a551-4d5d-83ec-3bdfb51fdea8" src="https://github.com/user-attachments/assets/d8b4f893-eb68-4db9-a36b-d84c925cf81c" />
+<img width="1470" alt="435592015-dc0cf463-3c0c-4ebb-845e-905027da2d0c" src="https://github.com/user-attachments/assets/a294685c-9f8d-4b24-8a7f-3a74c2f34888" />
+<img width="1470" alt="435592002-e2877ced-0048-42fc-aa65-93038e3382b9" src="https://github.com/user-attachments/assets/a7adb1f8-0b9c-49e8-a147-7656ab921d6e" />
+<img width="1470" alt="435592007-b9f19341-bcac-46bc-88a2-d4d4a3116d17" src="https://github.com/user-attachments/assets/7655b5ba-38ed-4026-9171-70b737394d16" />
+<img width="1470" alt="435592007-b9f19341-bcac-46bc-88a2-d4d4a3116d17" src="https://github.com/user-attachments/assets/a509580e-1097-46b5-b0f6-161fc5aafa3b" />
+<img width="1470" alt="435592000-5fe05c2b-a432-400e-9ebb-8ce757ee681b" src="https://github.com/user-attachments/assets/dcd45ffa-ee12-44c0-b37d-145d21a9459f" />
+<img width="1470" alt="435591920-0ae29290-97a8-471c-8d07-e4f09375bd76" src="https://github.com/user-attachments/assets/e7740461-c5f6-4ba0-b51f-d1a5dd81ce51" />
+<img width="1470" alt="435591920-0ae29290-97a8-471c-8d07-e4f09375bd76" src="https://github.com/user-attachments/assets/1596471c-2869-4e4b-a5bc-5fc377bd26bc" />
+<img width="1470" alt="435591994-771733c1-0487-4c5c-b297-225a81f5d6ab" src="https://github.com/user-attachments/assets/734ef2ba-84df-4f26-85f5-e0c017bb3833" />
